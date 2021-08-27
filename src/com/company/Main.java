@@ -9,8 +9,8 @@ public class Main {
 	   }
 
 	   public static void min(){
-		   System.out.println("min fuction github");
-		   System.out.println("min fuction222");
+		   System.out.println("min fuction local");
+		   System.out.println("min fuction");
 	   }
 
 	public static void max(){
