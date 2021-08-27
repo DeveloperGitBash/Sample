@@ -10,7 +10,7 @@ public class Main {
 
 	   public static void min(){
 		   System.out.println("min fuction local");
-		   System.out.println("min fuction");
+		   System.out.println("min fuction111");
 	   }
 
 	public static void max(){
